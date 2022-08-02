@@ -39,21 +39,7 @@
 
 ## Script Music <img src= './Proyects/PF/logo-despixeleado.png' width = 25px align ='right' align= "center"/>
 ---
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src='https://img.shields.io/badge/-React_Native-1D4573?logo=react'> 
-<img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white "> 
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> 
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> 
-<img src='https://img.shields.io/badge/-MongoDB-11A513?logo=mongodb&logoColor=FFF'> 
-<img src='https://img.shields.io/badge/-Mongoose-EA0D0D?logo=mongoose'> 
-<img src='https://img.shields.io/badge/-Nodemailer-2D8C1E?logo=nodemailer'>
-<img src='https://img.shields.io/badge/-Stripe-314297?logo=stripe&logoColor=ffffff'> 
-<img src='https://img.shields.io/badge/-Cloudinary-B8971D?logo=cloudinary&logoColor=ffffff'> 
-<img src='https://img.shields.io/badge/-MaterialUI-1DB8B1?logo=mui&logoColor=ffffff'> 
-<img src='https://img.shields.io/badge/-Railway-561651?logo=railway&logoColor=ffffff'> 
-<img src='https://img.shields.io/badge/-Vercel-1E1B1D?logo=vercel'> 
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"><img src='https://img.shields.io/badge/-React_Native-1D4573?logo=react'> <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white "> <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src='https://img.shields.io/badge/-MongoDB-11A513?logo=mongodb&logoColor=FFF'> <img src='https://img.shields.io/badge/-Mongoose-EA0D0D?logo=mongoose'> <img src='https://img.shields.io/badge/-Nodemailer-2D8C1E?logo=nodemailer'><img src='https://img.shields.io/badge/-Stripe-314297?logo=stripe&logoColor=ffffff'> <img src='https://img.shields.io/badge/-Cloudinary-B8971D?logo=cloudinary&logoColor=ffffff'> <img src='https://img.shields.io/badge/-MaterialUI-1DB8B1?logo=mui&logoColor=ffffff'> <img src='https://img.shields.io/badge/-Railway-561651?logo=railway&logoColor=ffffff'> <img src='https://img.shields.io/badge/-Vercel-1E1B1D?logo=vercel'> 
 
 <p>Este es un proyecto grupal hecho junto a otros 7 integrantes cuyo principal objetivo fue el cierre del bootcamp #SoyHenry. Se utilizo la metodologia Scrum para el desarrollo donde mi participacion se enfocó en la coordinacion del equipo, unificacion pesonal, creacion de funcionalidades en el backend, el sistema de pago efectivo y guarda de compras, implementacion de Cloudinary para la gestion de imagener y la creación de la base de datos, entre otras actividade.</p>
 
