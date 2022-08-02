@@ -3,9 +3,9 @@
 
 - 💬 ¿Quién soy yo? **Soy un apasionado por el desarrollo web y la logica de programación con el deseo constante de aprender y trabajar en equipo.**
 
-- 🤔 Algunos de mis hobbies [Cocinar, construir cosas con madera, tocar el piano y jugar juegos de mesa y Rol (estilo D&D)](Cocinar, construir cosas con madera, tocar el piano y jugar juegos de mesa y Rol (estilo D&D))
+- 🤔 Algunos de mis hobbies: **Cocinar, construir cosas con madera, tocar el piano y jugar juegos de mesa y Rol (estilo D&D)**
 
-- 📝 ¿Quieres contactarme? [Puedes hacerlo a través de Linkedin https://www.linkedin.com/in/jalugj/ o vía email gabriel.i.jalil@gmail.com](Puedes hacerlo a través de Linkedin https://www.linkedin.com/in/jalugj/ o vía email gabriel.i.jalil@gmail.com)
+- 📝 ¿Quieres contactarme? **Puedes hacerlo a través de Linkedin https://www.linkedin.com/in/jalugj/ o vía email gabriel.i.jalil@gmail.com**
 
 - 👨‍💻 Mis proyectos **(trabajando en eso)**
 
