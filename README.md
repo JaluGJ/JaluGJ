@@ -51,7 +51,7 @@
 <h2> Tambien le compartimos unas imagenes del proyecto</h2>
 
 <img src='./Proyects/PF/Welcome-page.jpeg' height=250px> <img src='./Proyects/PF/home-page.jpeg' height=250px> <img src='./Proyects/PF/user-drawer.jpeg' height=250px> <img src='./Proyects/PF/filter-aplied.jpeg' height=250px> <img src='./Proyects/PF/succesfull.jpeg' height=250px> <br>
-<img src='./Proyects/PF/Main-Page.png' height=200px><img src='./Proyects/PF/product-list.png' height=200px><img src='./Proyects/PF/promo-creation.png' height=200px>
+<img src='./Proyects/PF/Main-Page.png' height=150px><img src='./Proyects/PF/product-list.png' height=150px><img src='./Proyects/PF/promo-creation.png' height=150px>
 
 <a href='https://github.com/JaluGJ/ScriptMusic'> 📂 Ver repositorio</a> <a href='https://mega.nz/file/55A1kLpB#qRea9x096wFu1YwWxxHtmXYUK0-0ZwYgGgCTxb3fYwg'> 🌐 Ver proyecto </a>
 
@@ -64,7 +64,7 @@
 <p>Proyecto individual (PI) requerido para la aprobacion del Bootcamp de Henry. Aqui se pone en prueba los conocimientos adquiridos durante el cursado del bootcamp en lo que respecta creacion de una base de datos relacional, la creacion de un Backend que conecte esta base de datos y la correspondiente coneccion con el Frontend para llegar a una SPA completamente funcional</p>
 
 ### Algunas imagenes 
-<img src='./Proyects/PI/landing.png' height=200px> <img src='./Proyects/PI/home.png' height=200px> <img src='./Proyects/PI/post.png' height=200px>
+<img src='./Proyects/PI/landing.png' height=150px> <img src='./Proyects/PI/home.png' height=150px> <img src='./Proyects/PI/post.png' height=150px>
 
 <a href='https://github.com/JaluGJ/PI_countries'> 📂 Ver repositorio</a> <a href='https://pi-countries-pink.vercel.app/'> 🌐 Ver proyecto </a>
 
