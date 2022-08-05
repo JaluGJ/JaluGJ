@@ -47,6 +47,7 @@
 <h2> A continuación un breve video sobre el proyecto </h2>
 
 <!-- insertar video -->
+[![Alt text](https://res.cloudinary.com/dzonjuriq/image/upload/v1659502020/script_music_img/ScriptMusic_bpzk0i.png)](https://youtu.be/Og1z6ShsgMQ)
 
 <h2> Tambien le compartimos unas imagenes del proyecto</h2>
 
