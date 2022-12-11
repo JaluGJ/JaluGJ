@@ -10,7 +10,7 @@
 
 - 📝 ¿Quieres contactarme? **Puedes hacerlo a través de Linkedin https://www.linkedin.com/in/jalugj/ o vía email gabriel.i.jalil@gmail.com**
 
-- 📫 Estudios actuales **En este momento estoy ingresando al mundo de TypeScript y React Native**
+- 📫 Estudios actuales **En este momento estoy ingresando al mundo de C#, .Net y Typescript**
 
 
 
